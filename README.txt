@@ -1,3 +1,5 @@
+Download and Run the .exe Program if you want to use the program.
+
 This is a My Hobbies Project based on my Schools Physics Material. And ofcourse if there any problem or else with the code, I couldn't fix the program because I'm still learning how to program using a Python, and the .exe thing have an Additional help by ChatGPT, so yeah..
 
 This project I made just for fun.

@@ -5,7 +5,7 @@ How to use:
 2. Input every constant that the program required to Successfully Calculate the Variable.
 3. Press "Hitung" to Calculate every Number that you input.
 
-Note: (Optional) thing is an Alternative way if you didn't have one of the input variable, by Input '0' on the first Input order that required by the program.
+Note: (Optional) thing is an Alternative way if you didn't have one of the main input variable, by Input '0' on the first Input order that required by the program.
 
 -----------------------------------------------------------
 
